@@ -7,6 +7,11 @@
 The blackbox exporter allows blackbox probing of endpoints over
 HTTP, HTTPS, DNS, TCP and ICMP.
 
+## PATCHES
+
+- http custom endpoint support (ignoring DNS)
+- distroless docker image (advanced security)
+
 ## Running this software
 
 ### From binaries
